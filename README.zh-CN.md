@@ -6,7 +6,8 @@
 
 [![English](https://img.shields.io/badge/Lang-English-555555?style=for-the-badge)](README.md)&nbsp;&nbsp;[![中文](https://img.shields.io/badge/Lang-中文-2ea44f?style=for-the-badge)](README.zh-CN.md)
 
-![Platform](https://img.shields.io/badge/macOS-14%2B-black?logo=apple&logoColor=white)
+[![CI](https://github.com/LeoLin990405/ScreenBar/actions/workflows/ci.yml/badge.svg)](https://github.com/LeoLin990405/ScreenBar/actions/workflows/ci.yml)
+&nbsp;![Platform](https://img.shields.io/badge/macOS-14%2B-black?logo=apple&logoColor=white)
 &nbsp;![Swift](https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white)
 &nbsp;![License](https://img.shields.io/badge/License-MIT-blue)
 
